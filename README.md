@@ -2,6 +2,10 @@
 
 Dither Shader 库，用于实现像素抖动，模拟半透明
 
+**参考图：**
+
+![](DitherShader.gif)
+
 shader 需要定义两个参数（库中使用），默认值随意
 
 ```
